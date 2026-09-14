@@ -1,16 +1,16 @@
 {
-  "name": "ALI-MD",
+  "name": "𝐒ᴜɴɴʏ-𝐌ᴅ",
   "version": "10.0.0",
-  "description": "ALI-MD — A powerful Multi-Device WhatsApp Bot for automation, AI, moderation, media tools, and advanced group management.",
+  "description": "𝐒ᴜɴɴʏ-𝐌ᴅ — A powerful Multi-Device WhatsApp Bot for automation, AI, moderation, media tools, and advanced group management.",
   "main": "index.js",
 
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js",
-    "start:pm2": "pm2 start index.js --name ali-md",
-    "stop": "pm2 stop ali-md",
+    "start:pm2": "pm2 start index.js --name sunny-md",
+    "stop": "pm2 stop sunny-md",
     "restart": "pm2 restart ali-md",
-    "logs": "pm2 logs ali-md",
+    "logs": "pm2 logs sunny-md",
     "status": "pm2 status"
   },
 
@@ -18,7 +18,7 @@
     "node": ">=18.0.0"
   },
 
-  "author": "ALI-INXIDE",
+  "author": "⎯ 𝐀 𝐋 𝐏 𝐇 𝐀 -  𝐒 𝐔 𝐍 𝐍 𝐘 𖤍 ⤸ャ³",
   "license": "MIT",
 
   "dependencies": {
@@ -54,13 +54,12 @@
   },
 
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ALI-INXIDE/ALI-MD.git"
-  },
+  "type": "git",
+  "url": "git+https://github.com/buttsunny3574-coder/SUNNY-MD.git"
+},
 
-  "bugs": {
-    "url": "https://github.com/ALI-INXIDE/ALI-MD/issues"
-  },
+"bugs": {
+  "url": "https://github.com/buttsunny3574-coder/SUNNY-MD/issues"
+},
 
-  "homepage": "https://github.com/ALI-INXIDE/ALI-MD#readme"
-}
+"homepage": "https://github.com/buttsunny3574-coder/SUNNY-MD#readme"
